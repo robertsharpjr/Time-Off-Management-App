@@ -8,16 +8,16 @@ Microsoft Dynamics 365 PowerApps Canvas Application
 Microsoft Sharepoint
 
 # Features
-~Securely Sign in
-~Securely Register
-~Profile pages contain user picture
-~Profile pages can be edited
-~Unique PTO accrual for different departments
-~Users can request time off
-~Selected managers get email when a new request is issued
-~Managers have access to approve/deny requests
-~Users are notified when their request is approved/denied
+Securely Sign in
+Securely Register
+Profile pages contain user picture
+Profile pages can be edited
+Unique PTO accrual for different departments
+Users can request time off
+Selected managers get email when a new request is issued
+Managers have access to approve/deny requests
+Users are notified when their request is approved/denied
 
 # Improvements
-~Add PTO bank that stores users used/available PTO
-~Allow users to donate PTO if they want to
+Add PTO bank that stores users used/available PTO
+Allow users to donate PTO if they want to
